@@ -1,5 +1,4 @@
-# blockchain-instructions-homework
-# Blockchain Homework 18Setup the custom out-of-the-box blockchain
+# Blockchain Instructions Homework
 
 <ul>
   <li>Create a new project directory for your new network. Call it whatever you want!</li>
