@@ -7,11 +7,22 @@
 
 
 -Create accounts for two (or more) nodes for the network with a separate datadir for each using geth.
-
+  -./geth --datadir node1 account new
+  -./geth --datadir node2 account new
 
 -Run puppeth, name your network, and select the option to configure a new genesis block.
+  -./puppeth
 
 
+- Please specify a network name to administer (no spaces, hyphens or capital letters please)
+  -networkname
+   
+  - What would you like to do? (default = stats)
+    2. Configure new genesis
+
+  - What would you like to do? (default = create)
+    1. Create new genesis from scratch
+    
 -Choose the Clique (Proof of Authority) consensus algorithm.
 
 
